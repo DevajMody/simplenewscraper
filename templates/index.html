@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Summarizer</title>
+
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+    </head>
+    <body>
+
+        {% if contents %}
+            <h1 style="background-color: black; color: white">Result for <span style="color: cornflowerblue">{{ keyword }}</span></h1>
+            <div id="maincontents" style="background-color: black; color: blanchedalmond; font-size: 25px">
+                <h2 style="color:cornflowerblue">Summarized</h2>
+                <b>{{ contents }}</b>
+            </div>
+            <div id="meta" style="margin-top: 20px; background-color: black; color: blanchedalmond">
+                <h2 style="color:cornflowerblue">Referenes</h2>
+                {% for line in meta %}
+                    <p>{{ line }}</p>
+                    {% if line == '' %}
+                    <br>
+                    {% endif%}
+                {% endfor %}
+            </div>
+        {% else %}
+            <div style="font-size: 30px; height:200px;">
+                <h1>Summarizer </h1>
+                <form method="POST">
+                    <input name="text" placeholder="Enter query keywords here" style="height: 80px; width: 400px; font-size: 30px">
+                    <select name="links"  style="height: 80px; width: 350px; font-size: 30px">
+                        <option disabled selected>Number of Links</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                    <select name="Sentences"  style="height: 80px; width: 350px; font-size: 30px">
+                            <option disabled selected>Number of Sentences</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13">13</option>
+                            <option value="14">14</option>
+                            <option value="15">15</option>
+                        </select><br>
+                    <input type="submit" style="height: 80px; width: 300px; font-size: 30px; margin-top: 50px; background-color: cyan;">
+                </form>
+            </div>
+        {% endif %}
+
+    </body>
+</html>
