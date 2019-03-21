@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pakistan slams Indian court order freeing 2007 train blast suspects-
 Authors - []
 Publish Date - None
@@ -22,4 +23,30 @@ Appeal against Aseemanand's acquittal if you are really a chowkidar: Owaisi to M
 Authors - []
 Publish Date - None
 Link - https://www.moneycontrol.com/news/india/appeal-against-aseemanands-acquittal-if-you-are-really-a-chowkidar-owaisi-to-modi-3677971.html&sa=U&ved=0ahUKEwjh1v7yo5PhAhUUg-YKHcmUC7AQqQIIKigAMAQ&usg=AOvVaw15sTouQ9LGPpC9dWweDfHr
+=======
+CSK to donate 1st match proceeds to Pulwama families-
+Authors - ['Press Trust Of India']
+Publish Date - 2019-03-21 10:38:01+05:30
+Link - https://www.deccanherald.com/sports/cricket/csk-to-donate-first-ipl-proceeds-to-pulwama-families-724331.html&sa=U&ved=0ahUKEwiVtuSO6ZLhAhWOUn0KHUMOCsAQqQIIFCgAMAA&usg=AOvVaw2h42zx3zt_yt2zP2eXMLCz
+
+Rajnath Singh, Arvind Kejriwal Skip Holi Celebrations Over Pulwama Attack-
+Authors - []
+Publish Date - None
+Link - https://www.ndtv.com/india-news/holi-2019-leaders-to-give-holi-a-miss-as-tribute-to-pulwama-soldiers-2010681&sa=U&ved=0ahUKEwiVtuSO6ZLhAhWOUn0KHUMOCsAQqQIIHSgAMAE&usg=AOvVaw1pSxSpBGxpr1tfDtB8d92Y
+
+Post-Pulwama, Mumbai Cricket Club had intense debate over Imran Khan's political play-
+Authors - []
+Publish Date - 2019-03-21 08:16:00+00:00
+Link - https://economictimes.indiatimes.com/magazines/panache/post-pulwama-mumbai-cricket-club-had-intense-debate-over-imran-khans-political-play/articleshow/68498858.cms&sa=U&ved=0ahUKEwiVtuSO6ZLhAhWOUn0KHUMOCsAQqQIIJSgAMAI&usg=AOvVaw3OC76dmrjA7-zwRphzYaie
+
+Resolve post-Pulwama differences bilaterally, China-led SCO tells India, Pakistan-
+Authors - ['Sutirtho Patranobis']
+Publish Date - 2019-03-21 10:51:00+00:00
+Link - https://www.hindustantimes.com/india-news/resolve-post-pulwama-differences-bilaterally-china-led-sco-tells-india-pakistan/story-t89ekQxcr4h9hVDZJdRD9N.html&sa=U&ved=0ahUKEwiVtuSO6ZLhAhWOUn0KHUMOCsAQqQIIKCgAMAM&usg=AOvVaw10LphTHvjlF6FUbgVT9jyF
+
+View: It is not for soldiers to question why, but it must be asked, how did Pulwama happen?-
+Authors - ['T K Arun']
+Publish Date - 2019-03-19 23:25:00+00:00
+Link - https://economictimes.indiatimes.com/news/defence/view-it-is-not-for-soldiers-to-question-why-but-it-must-be-asked-how-did-pulwama-happen/articleshow/68488386.cms&sa=U&ved=0ahUKEwiVtuSO6ZLhAhWOUn0KHUMOCsAQqQIILigAMAQ&usg=AOvVaw3LoMSP-EwzNfc_WVVMfDir
+>>>>>>> d45ac802494b2a8bca28076b30a2857158e18562
 
